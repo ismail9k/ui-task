@@ -5,6 +5,6 @@ You can use some images from assets folder, any missing image you can use a [pla
 
 ## Tech Stack
 
-1- CSS
-2- HTML
-3- [Bootstrap](https://getbootstrap.com/)
+* CSS
+* HTML
+* [Bootstrap](https://getbootstrap.com/)
